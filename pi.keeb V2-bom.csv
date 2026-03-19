@@ -1,0 +1,5 @@
+Name,Purpose,Cost Per Item (USD),Quantity,Total (USD),Link,Distributor
+"pcb","main circuitry",2.05,5,10.25,"https://robu.in/cart/","Robu"
+"Enclousere + Plate","the housing of the components",1.00,1,1.00,"https://hackclub.enterprise.slack.com/archives/C095YP8GLKT","#printingLegion"
+"M3X6 screws (ordering 4 will cost significantly more)","to screw the pcb",0.05,50,2.50,"https://onlyscrews.in/products/chhd-m3-x-6mm-pack-of-22?variant=48458858889529","Only Screws"
+"ESP32-C3 mini","microcontroller",4.02,1,4.02,"https://www.amazon.in/ESP32-Mini-Development-Board-Compatibility/dp/B0GQC8T6HV/260-5280188-7733568?pd_rd_w=WFsq0&content-id=amzn1.sym.e84a26b2-5470-42e6-b7fa-162e7bb17185&pf_rd_p=e84a26b2-5470-42e6-b7fa-162e7bb17185&pf_rd_r=KPN97KBDS1VZR7RX0Y6P&pd_rd_wg=9SVMn&pd_rd_r=f36e5fa7-8011-4993-8ceb-c25d20907ea4&pd_rd_i=B0GQC8T6HV&psc=1","Amazon"
