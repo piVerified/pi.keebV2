@@ -10,10 +10,10 @@ Demo: SOON!
 
 1. nine total keys that are mapped to streaming and recording specific use case. 
 
-|    record   | pause |
-| :---------: | :---: |
-| go live     | clip  |
-|   stream    |  mute |
+|    record   | pause | terminate |
+| :---------: | :---: | :-------: |
+|   go live   | clip  | scrrenshot|
+|   stream    |  mute |     -     |
 
 
 ## BOM
