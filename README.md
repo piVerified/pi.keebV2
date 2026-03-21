@@ -16,17 +16,7 @@ Demo: SOON!
 |   stream    |  mute |     -     |
 
 
-## BOM
-
-1. white blank DSA keycaps 9x -> Self sourced
-2. MX-Style switches 9x -> Self sourced
-3. through-hole 1N4148 Diodes 9x -> Self sourced
-4. PCB -> linked in STASIS
-5. ESP32-C3 -> Linked in stasis
-6. 3d printed case + plate -> linked in stasis
-7. 4X M3X6 screws -> linked in stasis
-
-##3D
+## 3D
 
 ### 1. case + plate
 
@@ -72,6 +62,9 @@ Demo: SOON!
 
 > **Note:** For the **M3X6 screws**, bulk ordering being more cost-effective! I've calculated the total based on the quantity of 50.
 
+1. white blank DSA keycaps 9x -> Self sourced
+2. MX-Style switches 9x -> Self sourced
+3. through-hole 1N4148 Diodes 9x -> Self sourced
 
 ---
 # Bibliography
